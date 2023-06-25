@@ -1,0 +1,25 @@
+{
+    "orders": [
+        {
+            "item": "принтер",
+            "quantity": "10",
+            "price": "6700",
+            "buyer": "Ivanov I.I.",
+            "date": "24.09.2017"
+        },
+        {
+            "item": "системный блок",
+            "quantity": "12",
+            "price": "11500",
+            "buyer": "Kuznetsov I.A.",
+            "date": "01.10.2017"
+        },
+        {
+            "item": "монитор",
+            "quantity": "8",
+            "price": "9300",
+            "buyer": "Петров И.В.",
+            "date": "07.10.2017"
+        }
+    ]
+}
